@@ -99,4 +99,4 @@ def style_base_layout():
        transition: transform 0.25s ease-in-out, box-shadow 0.25s ease-in-out !important;
     }
     </style>
-    """, unsafe_allow_html=True)
+    """, unsafe_allow_html=True) 
